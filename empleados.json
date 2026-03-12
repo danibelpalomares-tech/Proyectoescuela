@@ -1,0 +1,17 @@
+[
+  {
+    "cedula": "27889799",
+    "nombre": "Miguel Ramirez",
+    "cargo": "administrativo"
+  },
+  {
+    "cedula": "32026099",
+    "nombre": "Danibel Palomares",
+    "cargo": "Docente"
+  },
+  {
+    "cedula": "14598382",
+    "nombre": "Elsy Briceno",
+    "cargo": "Docente"
+  }
+]
