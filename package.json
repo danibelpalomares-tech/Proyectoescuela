@@ -1,0 +1,23 @@
+{
+  "name": "proyectoescuela",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/danibelpalomares-tech/Proyectoescuela#readme",
+  "bugs": {
+    "url": "https://github.com/danibelpalomares-tech/Proyectoescuela/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danibelpalomares-tech/Proyectoescuela.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "modulo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
